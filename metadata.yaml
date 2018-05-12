@@ -1,4 +1,5 @@
 _repo: La-Grande-Mademoiselle-1627-1652_50717
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Meyer-Franck, Helene
@@ -6,6 +7,9 @@ contributor:
     birthdate: 1873
     gutenberg_agent_id: '36034'
     url: http://www.gutenberg.org/2009/agents/36034
+covers:
+- cover_type: archival
+  image_path: 50717-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Barine, Arvède
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '33205'
     url: http://www.gutenberg.org/2009/agents/33205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50717#La-Grande-Mademoiselle-1627-1652
 gutenberg_issued: '2015-12-19'
 gutenberg_type: Text
 identifiers:
